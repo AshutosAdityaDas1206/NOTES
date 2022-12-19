@@ -26,3 +26,66 @@ int main()
 
     return 0;
 }
+
+//NOTE;Break; not only forces program control to exit the switchcase,but it also breaks the loops in which it is contained.
+
+//Q2.Code for calculating factorial of user input number:
+
+#include <stdio.h>
+int main()
+{
+    int num, fact;
+
+    printf("Enter a number:\n");
+    scanf("%d", &num);
+    fact = 1;
+    for (int i = 1; i <= num; i++)
+    {
+        fact = fact * i;
+    }
+    printf("%d", fact);
+
+    return 0;
+}
+
+
+//for making a for loop finite,ALL THREE CONDITIONS ARE REQUIRED!(otherwise it will run infinitely)
+
+//NOTE:Application of Blank/Empty loops are to create time delay whenever required in our program.
+//ex: for (int i = 0;i<=5;i++);
+
+//here , the ';' symbol terminates the for loop and doesnt allows the code to run
+
+//or (int i = 0;i<=5;i++){} //used to delay time.
+//----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+//ALL TYPES OF ERRORS:
+//1)Syntax Error:Grammatical mistakes identifed by compilations
+//2)Runtime Error: Encountered during running a program
+//3)Logical Error:Fallacy error like grabage values,unwanted output,Dividing by zero.outputs provide bogus results.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
