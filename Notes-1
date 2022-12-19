@@ -1,0 +1,28 @@
+Loops:
+1)Entry based(While,for)
+2)Exit based(do-while)
+
+\\Q.Use while loop to take inputs inside the loop check if its a natural no and keep looping until the number is natural .
+#include <stdio.h>
+int main()
+{
+    int a;
+    // printf("Enter a number to check:\n");
+    // scanf("%d",&a);
+    while (2 > 1)
+    {
+        printf("Enter a number to check:\n");
+        scanf("%d", &a);
+        if (a > 0)
+        {
+            printf("Natural!");
+            break;
+        }
+        else
+        {
+            printf("Repeat\n");
+        }
+    }
+
+    return 0;
+}
