@@ -1,3 +1,5 @@
+//CLASS 1:
+
 Loops:
 1)Entry based(While,for)
 2)Exit based(do-while)
@@ -64,7 +66,14 @@ int main()
 //2)Runtime Error: Encountered during running a program
 //3)Logical Error:Fallacy error like grabage values,unwanted output,Dividing by zero.outputs provide bogus results.
 
-
+CLASS 2:
+Loops:
+q1)use nested loops to find factorial of first 10 natural numbers
+q2)use while loop
+q3)wap to reverse a number usinf while loop
+q4)wap to find sum of digits of a number
+q5)wap to check if a no. is an armstrong no.
+q6)wap to check for perfect no.
 
 
 
