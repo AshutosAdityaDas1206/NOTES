@@ -74,9 +74,18 @@ q3)wap to reverse a number usinf while loop
 q4)wap to find sum of digits of a number
 q5)wap to check if a no. is an armstrong no.
 q6)wap to check for perfect no.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q.Where is for used instead of while?
+Q.When can we use both ?
+Q.Demonstrate the usage of break with flowchart//in loop
+Q.Same for continue.//in loop
 
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Do-While:
+1.Exit controlled
+2.It will run at least once
+3.Exiting the loop depends on the condition.
 
 
 
