@@ -87,8 +87,22 @@ Do-While:
 2.It will run at least once
 3.Exiting the loop depends on the condition.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CLASS 4:
+Fnuction:
+specialized set of instructoin used to solve a subtask.
+(in code) a block of statements with the specific purpose of solving a problem with a same piece of code.
 
 
+-Library defined function:
+already defined in the language ,used by including header files.
+-User defined functions:
+added by programmers in their programs.
+
+Syntax:
+1)Declaration/prototype/header
+2)Definition
+3)Call
 
 
 
